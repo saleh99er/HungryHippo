@@ -1,0 +1,2 @@
+id,link,selector
+1,https://duckduckgo.com/?t=brave&hps=1&q=news&iar=news&ia=news, #vertical_wrapper > div > div.cw > div > div.results--main > div.results.js-vertical-results > div > div > h2 > a.result__a

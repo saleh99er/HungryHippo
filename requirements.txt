@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_chroma
+langchain_ollama
+requests
+requests_cache
+requests[socks]
+# TODO, specify package versions
