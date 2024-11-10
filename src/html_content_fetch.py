@@ -9,7 +9,7 @@ import os
 import logging
 import requests_cache
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 FILTER_RULES_CSV_PATH = os.path.join(os.pardir, "data", "filters.csv")
 WEB_CACHE_DIR = os.path.join(os.pardir, 'data', 'web_cache')
